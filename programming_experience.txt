@@ -1,0 +1,6 @@
+Hello,
+
+My name is Daniel Alarcon and this is my third semester here at OSU. I currently live in New York, about an hour north of Manhattan. I have a BS in Biology, so this would be my second bachelor's, but I ultimately decided I want to pursue a career in Computer Science. I am very interested in full stack development and am very interested in becoming more familiar with backend practices.
+
+I know the basics of python and javascript, and have attempted to learn a bit about SQL. I have about a year of experience on and off while working and decided to pursue a degree to have a more structured approach at learning. For IDEs, I mainly have used VS code for everything and just recently began trying PyCharm for CS161.
+I have taken Intro to computer science I & II (CS161-162), Computer Architecture & Assembly Language (CS271), and Discrete Structures in CS (CS225).
